@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Aviral
 
-<!--
-**Avi21-sys/Avi21-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (Java, Python, Web Dev)  
+🌱 Building useful tools (security/data/utility apps)  
+📍 India  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- QuizApp – Multi-language coding quiz platform
+- EMI Calculator – Interactive financial calculator
+- **Vulnerabilities_detector** – security project
+
+## 📫 Connect
+- Email: aviralsangal21@gmail.com
